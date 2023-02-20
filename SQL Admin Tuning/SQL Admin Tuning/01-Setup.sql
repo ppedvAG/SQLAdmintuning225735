@@ -4,7 +4,7 @@
 
 --Instanzen
 
-Volumewartungstask..
+Volumewartungstask..	 kein Ausnullen der Dateien beim Vergrößern
 
 Master: Logins,Konfig, DB
 model: 	Vorlage für neue DBs
